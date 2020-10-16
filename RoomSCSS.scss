@@ -223,3 +223,8 @@ $rainbowLoop: #e03434 #e8972c #e5e82c #2ce832 #91bfff #df86f7 #e03434;
 @include staffAnimation(53065252) {
   @include scrollingBackgroundAnimation(4s, 250, #42a5dc #ff00ff #42a5dc #ff00ff #42a5dc);
 }
+
+// Yates Animation :))
+@include staffAnimation(51034709) {
+  @include scrollingBackgroundAnimation(3s, 250, #8A2BE2 #8B008B #ff0080 #9932CC #FF1493)
+}
